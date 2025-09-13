@@ -5,7 +5,6 @@ All contributors can be found [here](https://chat.openai.com/chat)
 ## 🔓 Jailbreak Prompts
 
 <details>
-  <summary>🔓 Jailbreak Prompts List</summary>
 
  <details>
   <summary>🧠 DAN (Do Anything Now)</summary>
