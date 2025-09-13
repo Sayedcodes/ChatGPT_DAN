@@ -1,6 +1,6 @@
 # ChatGPT DAN
 
-(https://chat.openai.com/chat)
+● https://chat.openai.com/chat
 
 ## 🔓 Jailbreak Prompts
 
