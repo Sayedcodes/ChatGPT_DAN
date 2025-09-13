@@ -4,10 +4,22 @@ All contributors can be found [here](https://chat.openai.com/chat)
 
 ## 🔓 Jailbreak Prompts
 
-Some of these work better (or at all) than others:
+<details>
+  <summary>🔓 Jailbreak Prompts List</summary>
 
-- DAN (Do Anything Now)
-- The Jailbreak Prompt
+  - DAN (Do Anything Now)  
+  - Evil DAN  
+  - The Anti-DAN / Developer Mode v2  
+  - ChatGPT Developer Mode v2  
+  - ChatGPT Image Unlocker  
+  - ChatGPT DevMode + Ranti  
+  - The Jailbreak Prompt  
+  - The STAN Prompt  
+  - The DUDE Prompt  
+  - The Mongo Tom Prompt  
+
+</details>
+
 
 ---
 
