@@ -1,4 +1,4 @@
-# ChatGPT DAN
+# ChatGPT DAN and Jailbreak Prompts
 
 ● https://chat.openai.com/chat
 
