@@ -1,6 +1,6 @@
 # ChatGPT DAN
 
-All contributors can be found [here](https://chat.openai.com/chat)
+(https://chat.openai.com/chat)
 
 ## 🔓 Jailbreak Prompts
 
