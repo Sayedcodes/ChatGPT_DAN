@@ -18,10 +18,6 @@ This repository collects and documents jailbreak prompts that attempt to bypass 
 ## 📎 Resources
 
 - [OpenAI ChatGPT](https://chat.openai.com/)
-- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
 ---
-
-## ⭐ Contributors
-
-Maintained by prompt engineers and curious minds who test and refine jailbreaks regularly.
+⭐⭐⭐
