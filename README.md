@@ -7,7 +7,7 @@ All contributors can be found [here](https://chat.openai.com/chat)
 <details>
   <summary>🔓 Jailbreak Prompts List</summary>
 
- </summary> - DAN (Do Anything Now)  
+  - DAN (Do Anything Now)  
   - Evil DAN  
   - The Anti-DAN / Developer Mode v2  
   - ChatGPT Developer Mode v2  
@@ -16,7 +16,7 @@ All contributors can be found [here](https://chat.openai.com/chat)
   - The Jailbreak Prompt  
   - The STAN Prompt  
   - The DUDE Prompt  
-  - The Mongo Tom Prompt  </summary>
+  - The Mongo Tom Prompt
 
 </details>
 
